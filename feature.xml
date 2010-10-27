@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.osp"
+      label="%featureName"
+      version="1.0.0.v20100816"
+      provider-name="%providerName"
+      plugin="com.osp.platform">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://static.bada.com/product-update/"/>
+   </url>
+
+   <includes
+         id="org.eclipse.cdt"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.gef"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.mylyn_feature"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.cdt.build.crossgcc"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.cdt.p2"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.cdt.mylyn"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.cdt.launch.remote"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.rse"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.mylyn.bugzilla_feature"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.mylyn.context_feature"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.mylyn.ide_feature"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.mylyn.team_feature"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.platform"
+         version="0.0.0"
+         search-location="both"/>
+
+   <includes
+         id="org.eclipse.sdk"
+         version="0.0.0"
+         search-location="both"/>
+
+   <plugin
+         id="com.osp.debugger"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.ide"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.ide.message"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.ide.resource"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.platform"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.samplebrowser"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.update.sdk"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.apireference.help"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.appuiguide.help"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.osp.devguide.help"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
